@@ -1,9 +1,14 @@
+import Abhi from "./abhi"
 
 
 function App() {
   
   return (
-    <h1>Hello with vite</h1>
+    <>
+    <Abhi/>
+    <h1>HI</h1>
+    <p>This is just starting</p>
+    </>
   )
 }
 
